@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
 
     private float elapsedTime;
     private int score = 0;
-    private const int targetScore = 3;
+    private const int targetScore = 20;
 
     private void Awake()
     {
